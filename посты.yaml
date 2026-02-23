@@ -85,3 +85,9 @@
       $  npm install nodemcu-tool -g
 
     $ nodemcu-tool ... пошло-поехало... и все закрутилось ...
+-
+  title: ESP-32 PWM-ШИМ для пропуска целых полупериодов сетевого переменного напряжения.
+  html: >
+    <a href="https://github.com/mche/Lua-RTOS-ESP32">Проект</a> под <a href="https://whitecatboard.org/software/lua-rtos/">Lua RTOS</a> прошивку.
+    
+
